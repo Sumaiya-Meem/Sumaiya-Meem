@@ -1,16 +1,16 @@
 
-<img src="https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/Sumaiya%20Meem.png">
+<img src="[https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/Sumaiya%20Meem.png](https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/1.png)">
 
 ### Hello , I'm Sumaiya Meem
 
-##### I'm a dedicated MERN stack engineer with a strong foundation in React, and I love creating scalable and stable web applications. With my expertise in Express.js, React, Node.js, and MongoDB, I can create comprehensive solutions that meet the unique needs of modern web development.
+##### I'm a dedicated Front end developer with a strong foundation in React, and I love creating scalable and stable web applications. With my expertise in Express.js, React, Node.js, and MongoDB, I can create comprehensive solutions that meet the unique needs of modern web development.
 
 👀 About me
 - 🌱 I’m currently learning ... Advance MERN stack web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... MERN stack web development
-- 📫 How to reach me: *sumaiyameem.cse6.bu@gmail.com*
+- 💬 Ask me about ... React js 
+- 📫 How to reach me: *sumaiyameem056@gmail.com*
 
 ### 💻 Technologies that I know
 <p align="center">
