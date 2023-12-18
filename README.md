@@ -1,5 +1,5 @@
 
-<img src="[https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/Sumaiya%20Meem.png](https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/1.png)">
+<img src="https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/1.png">
 
 ### Hello , I'm Sumaiya Meem
 
