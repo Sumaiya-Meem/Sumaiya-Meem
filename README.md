@@ -6,9 +6,7 @@
 ##### I'm a dedicated Front end developer with a strong foundation in React, and I love creating scalable and stable web applications. With my expertise in Express.js, React, Node.js, and MongoDB, I can create comprehensive solutions that meet the unique needs of modern web development.
 
 👀 About me
-- 🌱 I’m currently learning ... Advance MERN stack web development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ... MERN stack web development
 - 💬 Ask me about ... React js 
 - 📫 How to reach me: *sumaiyameem056@gmail.com*
 
