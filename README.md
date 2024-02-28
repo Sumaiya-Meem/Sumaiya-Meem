@@ -25,59 +25,8 @@
 [![](https://raw.githubusercontent.com/Sumaiya-Meem/testcard/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/Sumaiya-Meem/testcard/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Projects
-### Rentiz
 
-Website Live link [Click here](https://rentiz-e6035.web.app/).
 
-### Features
-- Firebase authentication
-- Separate dashboard for` Admin`, `Agent` and `Customer`
-- Admin can control front end component like residencies and review
-- Agent are able to add property
-- Add and Sell property management system
-
-### 💻 Technology
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,js,tailwind,html" />
-  </a>
-</p>
-
-### TastePact
-
-Website Live link [Click here](https://food-share-73f23.web.app/).
-
-### Features
-- Firebase authentication
-- Donor are able to add food item
-- Add and Buy food management system
-- Responsive for all device
-
-### 💻 Technology
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,js,tailwind,html" />
-  </a>
-</p>
-
-### Allen fashion
-
-Website Live link [Click here](https://fashion-website-39a8c.web.app/).
-
-### Features
-- Firebase authentication
-- Registered users are given the option to add selected items to their shopping cart
-- Users log in, they can view their profiles, including their name and profile picture
-- Product and Sell management system
-- Responsive for all device
-
-### 💻 Technology
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,js,tailwind,html" />
-  </a>
-</p>
 
 
 
