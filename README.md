@@ -1,13 +1,11 @@
 
-<img src="https://raw.githubusercontent.com/Sumaiya-Meem/Sumaiya-Meem/main/1.png">
 
 ### Hello , I'm Sumaiya Meem
 
-##### I'm a dedicated Front end developer with a strong foundation in React, and I love creating scalable and stable web applications. With my expertise in Express.js, React, Node.js, and MongoDB, I can create comprehensive solutions that meet the unique needs of modern web development.
+##### I'm a versatile developer skilled in competitive programming and full-stack development. Proficient in a range of technologies, my problem-solving capabilities and commitment to innovation make me well-suited for creating efficient and scalable web applications.
 
 👀 About me
-- 🌱 I’m currently learning ... MERN stack web development
-- 💬 Ask me about ... React js 
+- 💬 Ask me about ... C++,React,Node
 - 📫 How to reach me: *sumaiyameem056@gmail.com*
 
 ### 💻 Technologies that I know
