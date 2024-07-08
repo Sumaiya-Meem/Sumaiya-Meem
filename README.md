@@ -5,7 +5,7 @@
 ##### I'm a versatile developer skilled in competitive programming and full-stack development. Proficient in a range of technologies, my problem-solving capabilities and commitment to innovation make me well-suited for creating efficient and scalable web applications.
 
 👀 About me
-- 💬 Ask me about ... C++,React js,Node js, SQL, Django
+- 💬 Ask me about ... C++,React js,Node js, SQL,OOP, Django
 - 📫 How to reach me: *sumaiyameem056@gmail.com*
 
 ### 💻 Technologies that I know
